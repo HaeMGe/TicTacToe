@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TServer
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ TServer.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=port
+comment1.target=TServer(int)
+comment2.params=pClientIP\ pClientPort
+comment2.target=void\ processNewConnection(java.lang.String,\ int)
+comment3.params=pClientIP\ pClientPort\ pMessage
+comment3.target=void\ processMessage(java.lang.String,\ int,\ java.lang.String)
+comment4.params=pClientIP\ pClientPort
+comment4.target=void\ processClosingConnection(java.lang.String,\ int)
+numComments=5

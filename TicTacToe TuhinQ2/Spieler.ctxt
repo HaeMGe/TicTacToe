@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Spieler
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Spieler.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=s\ i\ nick
+comment1.target=Spieler(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getIp()
+comment3.params=
+comment3.target=int\ getPort()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5
